@@ -5,3 +5,5 @@ altair
 plotly
 jupyter
 jupyterlab
+scipy
+networkx
